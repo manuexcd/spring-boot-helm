@@ -3,11 +3,11 @@ entries:
   spring-boot:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-06-05T16:49:57.371242509+02:00"
+    created: "2019-07-03T11:30:29.042991816+02:00"
     description: A Helm chart for Kubernetes
-    digest: 54aeaa448145ea74fb2952683d4ffc5863ee9fcddc923d1d5f64e126863ab21a
+    digest: 71e470f06519be5e0925c258d50f7feb3fcd9d907526b8d7996f364b22bb9857
     name: spring-boot
     urls:
-    - https://github.com/manuexcd/spring-boot-helm/spring-boot-0.1.0.tgz
-    version: 0.1.0
-generated: "2019-06-05T16:49:57.370716494+02:00"
+    - https://manuexcd.github.io/spring-boot-helm/spring-boot-1.0.0.tgz
+    version: 1.0.0
+generated: "2019-07-03T11:30:29.0414758+02:00"
